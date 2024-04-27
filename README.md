@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+My software prints "Hello World to the screen"
 
-{Provide a description of your software}
+The purpose of my software is a test to prepare for my upcoming CSE310 programs 
 
-{Describe your purpose for creating this software.}
+Link to video:
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/DeYqY4gylRg)
 
 # Development Environment
+Resources:
+VS Code and youtube videos
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
-
+Programming language:
+Python
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+Websites:
+* [Web Site Name](https://studio.youtube.com/channel/UC1Gj2w26uvJgHKVp0kjx3mw)
 * [Web Site Name](http://url.link.goes.here)
