@@ -17,5 +17,5 @@ Python
 # Useful Websites
 
 Websites:
-* [Web Site Name](https://studio.youtube.com/channel/UC1Gj2w26uvJgHKVp0kjx3mw)
+* [Youtube](https://studio.youtube.com/channel/UC1Gj2w26uvJgHKVp0kjx3mw)
 * [Web Site Name](http://url.link.goes.here)
