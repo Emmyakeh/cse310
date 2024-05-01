@@ -1,8 +1,8 @@
 # Overview
 
-My software prints "Hello World to the screen"
+My software prints "Hello World" to the screen.
 
-The purpose of my software is a test to prepare for my upcoming CSE310 programs 
+The purpose of my software is a test to prepare and share my upcoming programs 
 
 Link to video:
 
@@ -17,5 +17,5 @@ Python
 # Useful Websites
 
 Websites:
-* [Youtube](https://studio.youtube.com/channel/UC1Gj2w26uvJgHKVp0kjx3mw)
+* [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
